@@ -1,6 +1,6 @@
 {
   "description": "<p>Documentation of the Artofactory ecommerce site</p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "cta": "<p>It is intended to informative as to the process of developing headless ecommerce using Gatsby and Airtable with PayPal</p>",
   "contact": {
     "email": "eghant@gmail.com",
     "twitter_handle": "",
