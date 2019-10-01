@@ -1,7 +1,7 @@
 ---
 title: '1: in the beginning... React vs. SSG'
 date: 2019-08-16T22:37:31.000Z
-hero_image: "/content/images/art-doc-airtable-expanded.png"
+hero_image: "/content/images/The_Tortoise_and_the_Hare_-_Project_Gutenberg_etext_19994.jpg"
 author: Friedrich Nietzsche
 
 ---
